@@ -2,8 +2,8 @@
 **`Engenheira Mecânica - Analista de Cibersegurança`**
 
  Me chamo Anne Carolinne Silva de Aquino, tenho 29 anos e sou natural de Angra dos Reis/RJ. <br/>
- Concluí o ensino médio no CERM, em conjunto com o curso técnico subsequente no CEFET/RJ campus Angra dos Reis em mecânica.
-  <br/> Recentemente me formei como bacharel em Engenharia Mecânica pelo CEFET/RJ campus Nova Iguaçu.
+ Concluí o ensino médio no CERM em 2014, em o curso Técnico em Mecânica no CEFET/RJ campus Angra dos Reis em 2016.
+  <br/> Recentemente me formei como bacharel em Engenharia Mecânica pelo CEFET/RJ campus Nova Iguaçu em agosto de 2026.
   <br/> Atualmente, estou realizando uma formação inicial de Analista em Cibersegurança e Redes, pelo programa Mujer Digital da JA Américas. 
   <br/> Sou apaixonada pela integração da tecnologia na vida cotidiana das pessoas, buscando desenvolvimento contínuo de maneira a agregar
   sempre mais segurança às inovações tecnológicas incrementadas no dia-a-dia das pessoas.
