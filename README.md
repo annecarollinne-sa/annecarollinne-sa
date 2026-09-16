@@ -1,13 +1,11 @@
 # 👩🏻‍💻 Anne Carollinne ⚙️👩🏼‍🔧
 **`Engenheira Mecânica - Analista de Cibersegurança`**
 
- Me chamo Anne Carolinne Silva de Aquino, tenho 29 anos e sou natural do Rio de Janeiro.
-  Concluí o ensino médio no CERM (Colégio Estadual Roberto Montenegro), e Curso técnico
-  subsequente no CEFET/RJ campus Angra dos Reis em mecânica. Recentemente me formei como
-  bacharel em Engenharia Mecânica pelo CEFET/RJ campus Nova Iguaçu. Atualmente, estou
-  realizando uma formação inicial de analista em Cibersegurança e Redes, pelo programa
-  Mujer Digital da Junior Achievement Américas. Sou apaixonada pela integração da tecnologia
-  na vida cotidiana das pessoas, buscando desenvolvimento contínuo de maneira a agregar
+ Me chamo Anne Carolinne Silva de Aquino, tenho 29 anos e sou natural de Angra dos Reis/RJ. <br/>
+ Concluí o ensino médio no CERM, em conjunto com o curso técnico subsequente no CEFET/RJ campus Angra dos Reis em mecânica.
+  <br/> Recentemente me formei como bacharel em Engenharia Mecânica pelo CEFET/RJ campus Nova Iguaçu.
+  <br/> Atualmente, estou realizando uma formação inicial de Analista em Cibersegurança e Redes, pelo programa Mujer Digital da JA Américas. 
+  <br/> Sou apaixonada pela integração da tecnologia na vida cotidiana das pessoas, buscando desenvolvimento contínuo de maneira a agregar
   sempre mais segurança às inovações tecnológicas incrementadas no dia-a-dia das pessoas.
   Através deste portfólio divulgo os projetos e laboratórios realizados ao longo de minha
   trajetória de formação.
@@ -29,7 +27,7 @@
     </a>
 </p>
 
-🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 </h2>
 
 <p align="left">
